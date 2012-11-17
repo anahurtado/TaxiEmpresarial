@@ -16,7 +16,11 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
+<<<<<<< HEAD
   <title>Taxi Empresarial</title>
+=======
+  <title>I taxi</title>
+>>>>>>> 7f0d1e5ea4683644663105e38452ed8e83893651
   <meta name="description" content="" />
   <meta name="keywords" content="" />
   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
@@ -30,7 +34,11 @@
 <div class="main">
 <div class="header">
 <div class="header-top">
+<<<<<<< HEAD
 <h1>Taxi<span> Empresarial</span></h1>
+=======
+<h1>I Taxi <span>Taxi Empresarial</span></h1>
+>>>>>>> 7f0d1e5ea4683644663105e38452ed8e83893651
 </div>
 <div class="header-bottom">
 
@@ -38,12 +46,21 @@
 <div class="topmenu">
 <ul>
   <li style="background: transparent none repeat scroll 0% 50%; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial; padding-left: 0px;"><a href="Home.jsp" target="content-content"><span>Home</span></a></li>
+<<<<<<< HEAD
   <li><a href="sedeServlet?opcion=1" target="content-content"><span>Reservar Taxi</span></a></li>
   <li><a href="Reserva.do" target="content-content"><span>Eliminar Reserva de Taxi</span></a></li>
   <li><a href="#"><span>Consultas</span></a></li>
   <!--<li><a href="#"><span>Reportes</span></a></li>-->
   <li><a href="#"><span>Contáctanos</span></a></li>
   <!--<li><a href="#"><span>Resources</span></a></li>-->
+=======
+  <li><a href="sedeServlet?opcion=1" target="content-content"><span>Mantenimiento Sede</span></a></li>
+  <li><a href="Reserva.do" target="content-content"><span>Reserva de Vale</span></a></li>
+  <li><a href="#"><span>Consultas</span></a></li>
+  <li><a href="#"><span>Reportes</span></a></li>
+  <li><a href="#"><span>Contáctanos</span></a></li>
+  <li><a href="#"><span>Resources</span></a></li>
+>>>>>>> 7f0d1e5ea4683644663105e38452ed8e83893651
 </ul>
 </div>
 </div>
@@ -59,9 +76,15 @@
 <div class="mainmenu">
 <h2 class="sidebar1">Main Menu</h2>
 <ul>
+<<<<<<< HEAD
  <li><a href="sedeServlet?opcion=1" target="content-content">Reservar Taxi</a></li>
   <li><a href="logServicio.do" target="content-content">Consultar Reservas</a></li>
   <li><a href="consultaReserva.jsp" target="content-content">Eliminar Reserva</a></li>
+=======
+ <li><a href="sedeServlet?opcion=1" target="content-content">Mantenimiento de Sedes</a></li>
+  <li><a href="logServicio.do" target="content-content">Confirma Servicio </a></li>
+  <li><a href="consultaReserva.jsp" target="content-content">Consulta Reserva </a></li>
+>>>>>>> 7f0d1e5ea4683644663105e38452ed8e83893651
 </ul>
 </div>
 

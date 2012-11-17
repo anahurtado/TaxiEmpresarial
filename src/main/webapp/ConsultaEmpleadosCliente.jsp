@@ -1,6 +1,13 @@
+<<<<<<< HEAD
 <%@page import="pe.edu.upc.dsd.taxiempresarial.model.ClienteEmpleados"%>
 <%@page import="pe.edu.upc.dsd.taxiempresarial.dao.ClienteEmpresaJdbc"%>
 <%@page import="pe.edu.upc.dsd.taxiempresarial.useful.JdbcUtils"%>
+=======
+
+<%@page import="pe.edu.upc.dew.taxiseguro.model.ClienteEmpleados"%>
+<%@page import="pe.edu.upc.dew.taxiseguro.dao.ClienteEmpresaJdbc"%>
+<%@page import="pe.edu.upc.dew.taxiseguro.util.JdbcUtils"%>
+>>>>>>> 7f0d1e5ea4683644663105e38452ed8e83893651
 <%@taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core"%>
 <%-- 
     Document   : ConsultaEmpleadosCliente

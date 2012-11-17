@@ -3,9 +3,15 @@
     Created on : 07/11/2010, 07:03:38 PM
     Author     : Administrator
 --%>
+<<<<<<< HEAD
 <%@page import="pe.edu.upc.dsd.taxiempresarial.dao.ClienteEmpresaJdbc"%>
 <%@page import="pe.edu.upc.dsd.taxiempresarial.model.ClienteEmpresa"%>
 <%@page import="pe.edu.upc.dsd.taxiempresarial.service.ClienteEmpleadoImpl"%>
+=======
+<%@page import="pe.edu.upc.dew.taxiseguro.dao.ClienteEmpresaJdbc"%>
+<%@page import="pe.edu.upc.dew.taxiseguro.model.ClienteEmpresa"%>
+<%@page import="pe.edu.upc.dew.taxiseguro.service.ClienteEmpleadoImpl"%>
+>>>>>>> 7f0d1e5ea4683644663105e38452ed8e83893651
 <%@ page import="java.io.*,java.util.*,java.net.*,java.sql.*,java.sql.Statement" %>
 
 

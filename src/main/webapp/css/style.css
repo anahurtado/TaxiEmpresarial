@@ -42,7 +42,11 @@ h1, h2, h3, h4, h5, h6, p, ul, ol, li, form, input, textarea {
 	background-image: url(../images/top-texture.jpg);
 	background-repeat: no-repeat;
 	background-position: center top;
+<<<<<<< HEAD
 	width: 120%;
+=======
+	width: 100%;
+>>>>>>> 7f0d1e5ea4683644663105e38452ed8e83893651
 	float: left;
 }
 .page-in {

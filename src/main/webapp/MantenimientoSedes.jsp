@@ -2,6 +2,15 @@
     "http://www.w3.org/TR/html4/loose.dtd">
 
 <%@taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core"%>
+<<<<<<< HEAD
+=======
+<%-- 
+    Document   : MantenimientoSedes
+    Created on : Oct 18, 2010, 6:52:55 AM
+    Author     : Toshiba
+--%>
+
+>>>>>>> 7f0d1e5ea4683644663105e38452ed8e83893651
 
 <%@page contentType="text/html"%>
 <%@page pageEncoding="UTF-8"%>
@@ -16,6 +25,7 @@
         <meta http-equiv="content-type" content="text/html; charset=utf-8" />
         <title>Servicio Taxi Empresarial </title>
           <link href="css/style.css" rel="stylesheet" type="text/css" />
+<<<<<<< HEAD
     </head>
 
     <body class="iframe">
@@ -27,6 +37,25 @@
         </div>
         <!-- Fin encabezado -->
  
+=======
+     </head>
+
+
+    <body class="iframe">
+
+        <!-- Inicio Encabezado -->
+
+
+        <div id="header">
+            <div id="logo">
+                <h1> Mantenimiento de Sedes </h1>
+
+           
+            </div>
+            
+        </div>
+        <!-- Fin encabezado -->
+>>>>>>> 7f0d1e5ea4683644663105e38452ed8e83893651
         <!-- Incio pgina  -->
         <div id="page">
           <div id="content">
@@ -37,6 +66,10 @@
                     </div>
                   <div class="entry"> <p> Actualice la informacion de sus Sedes </p>
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 7f0d1e5ea4683644663105e38452ed8e83893651
                       <html:form action="validarsedes">
                         Nombre Sede: <html:text property="nomSede"></html:text><br />
                         <html:errors property="sede"></html:errors> <br/>
@@ -52,11 +85,30 @@
                             </c:forEach>
                                   </select>
 
+<<<<<<< HEAD
                          <html:errors property="distrito"/><br/>
 
                          <html:submit value="Confirmar"></html:submit>
                      </html:form>
 
+=======
+                         
+                         <html:errors property="distrito"/><br/>
+
+
+                         <html:submit value="Confirmar"></html:submit>
+                     </html:form>
+
+
+
+
+
+
+
+
+
+                      
+>>>>>>> 7f0d1e5ea4683644663105e38452ed8e83893651
                         <p>&nbsp;</p>
                         <form name="frmSede" method="post" action="">
                             <table width="613" border="1">
@@ -66,8 +118,13 @@
                                     <strong>Direccion de Sede</strong></td>
                                     <td><strong>Telefono de Sede</strong></td>
                                     <td><strong>Distrito</strong></td>
+<<<<<<< HEAD
                                 </tr>
 
+=======
+
+                                </tr>
+>>>>>>> 7f0d1e5ea4683644663105e38452ed8e83893651
                                 <c:forEach var="sede2" items="${listasedes}">
                                     <tr>
 

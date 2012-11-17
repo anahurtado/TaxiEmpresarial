@@ -1,3 +1,12 @@
+<<<<<<< HEAD
+=======
+<%-- 
+    Document   : Home
+    Created on : 07/11/2010, 08:31:55 PM
+    Author     : Administrator
+--%>
+
+>>>>>>> 7f0d1e5ea4683644663105e38452ed8e83893651
 <%@page contentType="text/html" pageEncoding="windows-1252"%>
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
    "http://www.w3.org/TR/html4/loose.dtd">
@@ -15,7 +24,11 @@
 <table cellspacing="0" cellpadding="0" border="0" width="490">
     <tbody><tr>
       <td>
+<<<<<<< HEAD
           <h1><span>SERVICIOS</span></h1>
+=======
+          <h1><span>  SERVICIOS</span></h1>
+>>>>>>> 7f0d1e5ea4683644663105e38452ed8e83893651
           <p align="justify"><strong>DESCRIPCION DEL SERVICIO</strong></p>
           <p align="justify">
               El servicio consiste en desplazar a personas que pueden ser 

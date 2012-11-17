@@ -13,7 +13,11 @@
 <%@ taglib uri="http://struts.apache.org/tags-html"
            prefix="html" %>
 
+<<<<<<< HEAD
 <%@page import="pe.edu.upc.dsd.taxiempresarial.useful.Sql" %>
+=======
+<%@page import="pe.edu.upc.dew.taxiseguro.util.Sql" %>
+>>>>>>> 7f0d1e5ea4683644663105e38452ed8e83893651
 <%@page import="java.util.List" %>
 <%@page import="java.util.ArrayList" %>
 <%@page import="java.util.Arrays"%>
